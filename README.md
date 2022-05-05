@@ -1,10 +1,6 @@
 # Create Blazor DatePicker Component in Blazor Server App
 
 A quick start blazor server app that allows you to configure the [Blazor DatePicker](https://www.syncfusion.com/blazor-components/blazor-datepicker) component from Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as setting specific date values, formats and navigating between different views such as month, year, and decade.
-
-Documentation: 
-
-Online examples: https://blazor.syncfusion.com/demos/datepicker/default-functionalities
  
 ## Project prerequisites
 
