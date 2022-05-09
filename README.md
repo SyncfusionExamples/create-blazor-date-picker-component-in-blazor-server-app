@@ -1,6 +1,6 @@
 # Create Blazor DatePicker Component in Blazor Server App
 
-A quick start blazor server app that allows you to configure the [Blazor DatePicker](https://www.syncfusion.com/blazor-components/blazor-datepicker) component from Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as setting specific date values, formats and navigating between different views such as month, year, and decade.
+A quick start blazor server app that allows you to configure the [Blazor DatePicker](https://www.syncfusion.com/blazor-components/blazor-datepicker?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples) component from Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as setting specific date values, formats and navigating between different views such as month, year, and decade.
  
 ## Project prerequisites
 
@@ -14,16 +14,15 @@ To run this application, you need to first clone the `create-blazor-date-picker-
 [Learn More about Blazor Date Picker](https://www.syncfusion.com/blazor-components/blazor-datepicker?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Documentation](https://blazor.syncfusion.com/documentation/datepicker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor-samples?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
-[Release History](https://blazor.syncfusion.com/documentation/release-notes/19.4.38?type=all?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Online Demos](https://blazor.syncfusion.com/demos/datepicker/default-functionalities?theme=fluent?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
-[Contact Support](https://www.syncfusion.com/support/directtrac/incidents/newincident/?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
+[Contact Support](https://support.syncfusion.com/create?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Community Forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Knowledge base](https://www.syncfusion.com/kb?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)<br/><br/>
 [Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples)
 
-## About Syncfusion Blazor UI Controls
-Syncfusion's [Blazor UI Controls](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples) library is the only suite that you will ever need to build an application since it contains over 100 high-performance, lightweight, modular, and responsive UI Controls in a single package. In addition to DatePicker component, we provide popular Blazor Controls such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples), and [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples).
+## About Syncfusion Blazor Components
+Syncfusion's [Blazor Components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples) library is the only suite that you will ever need to build an application since it contains over 70+ high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to DatePicker component, we provide popular Blazor Controls such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples), and [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples).
 
 ## About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 28,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
@@ -35,5 +34,5 @@ This is a commercial product and requires a paid license for possession or use. 
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor DatePicker- Github" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples">www.syncfusion.com</a> | 1-888-9 DOTNET <br>
+  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor DatePicker - Github" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-date-picker-github-samples">www.syncfusion.com</a> | 1-888-9 DOTNET <br>
 </p>
